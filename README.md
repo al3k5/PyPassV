@@ -1,4 +1,6 @@
 # PyPassV
+A work in progress
+
 A simple CLI password-generator and password-manager.
 
 Includes an encrypted database with pySQLCipher3 witch is only accessed during read and writes.
